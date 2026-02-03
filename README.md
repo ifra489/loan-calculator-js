@@ -7,7 +7,13 @@ It calculates EMI, generates a full amortization schedule, visualizes loan distr
 
 ## 📸 Preview
 
-![Loan Calculator Screenshot](./screenshot.png)
+<p align="center">
+  <img src="./Loan1.png" alt="Loan Calculator Home Screenshot" width="700" />
+  <img src="./loan2.png" alt="Loan Calculator  Screenshot" width="700" />
+  <img src="./dloan3.png" alt="Loan Calculator  Screenshot" width="700" />
+  <img src="./loan3.png" alt="Loan Calculator  Error" width="700" />
+</p>
+
 
 ---
 
