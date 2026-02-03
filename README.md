@@ -5,6 +5,10 @@ It calculates EMI, generates a full amortization schedule, visualizes loan distr
 
 ---
 
+## Live Preview
+Netlify: https://loanncalculate.netlify.app/
+
+
 ## 📸 Preview
 
 <p align="center">
